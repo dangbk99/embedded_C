@@ -1,0 +1,11 @@
+main.c:64:6:ADC_init	1
+main.c:78:10:Read_ADC	2
+main.c:89:6:UART_init	1
+main.c:111:6:UART_send_bytes	3
+main.c:119:6:UART_send_multy_bytes	2
+main.c:148:5:main	1
+main.c:232:6:SystemClock_Config	3
+main.c:274:13:MX_GPIO_Init	1
+main.c:297:6:StartDefaultTask	1
+main.c:324:6:read_temp_ss_task	1
+main.c:348:6:Error_Handler	1
